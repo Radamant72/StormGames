@@ -1,5 +1,5 @@
-StormGames
-==========
+StormGames - http://storm-games.ru/
+===================================
 
 +++++++++++++
 Our launcher: Contained in the folder launcher
